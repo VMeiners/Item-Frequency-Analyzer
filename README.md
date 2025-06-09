@@ -17,6 +17,7 @@ Menu Option 4: Exit the program.
 - Inline comments and clean naming conventions maintain readability and professionalism.
 
 **Application Menu Screencaps**
+
 _Main Menu_
 ![Grocer1](https://github.com/user-attachments/assets/a1392675-791b-4bbb-b168-ede55f14f3cc)
 
