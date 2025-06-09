@@ -19,10 +19,13 @@ Menu Option 4: Exit the program.
 **Application Menu Screencaps**
 
 _Main Menu_
+
 ![Grocer1](https://github.com/user-attachments/assets/a1392675-791b-4bbb-b168-ede55f14f3cc)
 
 _Selecting Single Item_
+
 ![Grocer2](https://github.com/user-attachments/assets/b506294f-0366-4e64-af6e-4b8a0a4cbc32)
 
 _Selecting All Items_
+
 ![Grocer3](https://github.com/user-attachments/assets/f0c69a97-0af8-46a7-848c-defdaf1eedc0)
